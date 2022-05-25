@@ -13,4 +13,4 @@ It applies the following concepts:
 
 Future improvements: Adding additional face-like features such as a mouth and make it open/close as the mouse moves over it. 
 
-<img src= "oneeye.png" width='300'/>
+<img src= "eye-open-icon--icon-search-engine-2.png" width='300'/>
